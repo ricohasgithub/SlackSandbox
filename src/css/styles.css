@@ -1,4 +1,31 @@
 
+.widget {
+
+  width: 30%;
+
+  padding: 1%;
+  padding-left: 3%;
+
+  border: 1vh solid black;
+  border-radius: 2vh;
+
+  background-color: grey;
+
+}
+
+.button-row {
+
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+
+}
+
+.game-element {
+
+  width: 45%;
+
+}
+
 #submit {
 
   /* Button display and positions. Mobile tested */
@@ -7,6 +34,9 @@
 
   margin-left: 25%;
   margin-right: 25%;
+
+  margin-top: 5vh;
+  margin-bottom: 5vh;
 
   /* Submit button specific override styles */
 
