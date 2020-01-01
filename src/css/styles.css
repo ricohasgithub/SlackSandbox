@@ -1,0 +1,39 @@
+
+#submit {
+
+  /* Button display and positions. Mobile tested */
+
+  width: 50%;
+
+  margin-left: 25%;
+  margin-right: 25%;
+
+  /* Submit button specific override styles */
+
+  background-color: white;
+
+  font-size: 3vh;
+  font-weight: bold;
+
+}
+
+/* Inherited button styling */
+button {
+
+  display: inline-block;
+
+  padding: 2vh;
+
+  text-align: center;
+  text-decoration: none;
+
+  font-family: 'Lato', sans-serif;
+
+  border: 0.5vh solid black;
+  border-radius: 2vh;
+
+}
+
+html {
+  overflow: hidden;
+}
