@@ -67,3 +67,18 @@ button {
 html {
   overflow: hidden;
 }
+
+@media screen and (max-width: 460px) {
+
+  .game-element {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1vh;
+  }
+
+  .widget {
+    width: 90%;
+  }
+
+}
